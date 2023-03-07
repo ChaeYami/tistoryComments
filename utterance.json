@@ -1,3 +1,6 @@
 {
-  "origins": ["https://chaeyami.tistory.com/"]
+  "origins": [
+    "https://chaeyami.tistory.com/"
+    "http://chaeyami.tistory.com/"
+  ]
 }
